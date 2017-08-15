@@ -10,7 +10,6 @@
     }
   ],
   "dependencies": {
-    "azure-cli": "latest",
     "underscore": "~1.4.3",
     "async": "~0.2.10"
   },
@@ -29,9 +28,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/windowsazure-contrib/azure-scripty.git"
+    "url": "git://github.com/amalik99/azure-scripty.git"
   },
-  "homepage": "https://github.com/windowsazure-contrib/azure-scripty",
+  "homepage": "https://github.com/amalik99/azure-scripty.git",
   "keywords": [
     "azure",
     "cloud",
